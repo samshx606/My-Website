@@ -1,0 +1,9 @@
+.height-300 {
+    height: 500px;
+}
+.carousel-item img {
+   
+    margin: auto; /* Center the images horizontally */
+    display: block; /* Ensure images are displayed as blocks */
+  }
+  
